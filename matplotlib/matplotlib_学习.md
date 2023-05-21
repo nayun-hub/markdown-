@@ -142,5 +142,4 @@ ax.legend(numpoints=1)
 ax.set_xlim(0, 1.8)
 ```
 
-<img src="C:\Users\nayun\Desktop\project_file\markdown-笔记\matplotlib\散点图1.png" alt="散点图符号" style="zoom:60%;" />
-
+![散点图](https://github.com/nayun-hub/markdown-/blob/master/matplotlib/%E6%95%A3%E7%82%B9%E5%9B%BE1.png)
